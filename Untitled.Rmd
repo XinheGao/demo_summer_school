@@ -1,5 +1,5 @@
 ---
-title: "R Markdown"
+title: "R Markdown Playground"
 output: word_document
 ---
 
